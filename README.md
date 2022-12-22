@@ -77,9 +77,9 @@ In your test-utils file, re-export the render function that supports decorators 
 ```javascript
 // test-utils.js
 // ...
-export * from '@testing-library/react'           // makes all React Testing Library's exports available
-export * from '@render-with/decorators'            // overrides React Testing Library's render function
-export * from '@render-with/redux' // makes decorators like withState(..) available
+export * from '@testing-library/react'  // makes all React Testing Library's exports available
+export * from '@render-with/decorators' // overrides React Testing Library's render function
+export * from '@render-with/redux'      // makes decorators like withState(..) available
 ```
 
 And finally, use the Redux decorators in your tests:
