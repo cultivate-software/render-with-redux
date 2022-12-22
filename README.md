@@ -251,7 +251,7 @@ A middleware that replaces thunks and mocked thunks with corresponding action ob
 
 ## Issues
 
-Looking to contribute? Checkout this project's [Issues](https://github.com/cultivate-software/render-with-redux/issues?q=is%3Aissue+is%3Aopen) on GitHub.
+Looking to contribute? PRs are welcome. Checkout this project's [Issues](https://github.com/cultivate-software/render-with-redux/issues?q=is%3Aissue+is%3Aopen) on GitHub for existing issues.
 
 ### 🐛 Bugs
 
