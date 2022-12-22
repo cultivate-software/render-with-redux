@@ -3,7 +3,6 @@
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/cultivate-software/render-with-redux/release.yml?branch=main)
 ![Code Coverage](docs/coverage-badge.svg)
 ![npm (scoped)](https://img.shields.io/npm/v/@render-with/redux)
-![npm](https://img.shields.io/npm/dw/@render-with/redux)
 ![NPM](https://img.shields.io/npm/l/@render-with/redux)
 ![PRs welcome](https://img.shields.io/badge/PRs-welcome-bright%20green)
 
