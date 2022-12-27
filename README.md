@@ -63,7 +63,7 @@ yarn add --dev @render-with/redux
 
 This library has the following `peerDependencies`:
 
-![npm peer dependency version](https://img.shields.io/npm/dependency-version/@render-with/redux/peer/@reduxjs/toolkit)
+![npm peer dependency version](https://img.shields.io/npm/dependency-version/@render-with/redux/peer/@reduxjs/toolkit)<br />
 ![npm peer dependency version](https://img.shields.io/npm/dependency-version/@render-with/redux/peer/react-redux)
 
 and supports the following `node` versions:
