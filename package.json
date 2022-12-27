@@ -13,6 +13,7 @@
     "functional",
     "decorator",
     "wrapper",
+    "provider",
     "redux",
     "store",
     "reducer",
