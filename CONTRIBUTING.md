@@ -35,6 +35,6 @@ If your PR introduced some changes in the API, you are more than welcome to modi
 
 ## Help needed
 
-Please check out the [open issues](https://github.com/cultivate-software/render-with-redux/issues)
+Please check out the [open issues](https://github.com/cultivate-software/render-with-redux/issues) page on GitHub.
 
 Also, please watch the repo and respond to questions/bug reports/feature requests! Thanks!
