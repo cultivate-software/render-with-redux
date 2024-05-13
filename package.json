@@ -68,7 +68,7 @@
     "@babel/core": "7.24.5",
     "@babel/node": "7.22.15",
     "@babel/preset-env": "7.22.15",
-    "@babel/preset-react": "7.23.3",
+    "@babel/preset-react": "7.24.1",
     "@reduxjs/toolkit": "1.9.5",
     "@render-with/decorators": "5.0.0",
     "@semantic-release/git": "10.0.1",
